@@ -3,3 +3,5 @@
 belajar git bersama hari senin
 
 ## Apa itu git?
+
+bsakdaldja
